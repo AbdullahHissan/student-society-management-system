@@ -12,8 +12,8 @@ The Student Society Management System is designed to help students discover soci
 - Notifications
 
 ## Team Members
-- Abdullah Hissan (22F-3871)
-- Syed Abdullah (22F-3446)
+- Abdullah Hissan  (22F-3871)
+- Syed Abdullah  (22F-3446)
 
 ## Technologies Used
 Add the programming languages and tools used in your project here.
